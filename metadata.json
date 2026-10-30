@@ -1,0 +1,8 @@
+{
+  "name": "Remix Bảng Tuần Hoàn Hoá Học Động 3D",
+  "description": "Bảng tuần hoàn các nguyên tố hóa học tương tác động, mô hình nguyên tử 3D và 2D các lớp electron chính xác, cùng ứng dụng thực tế sinh động.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}

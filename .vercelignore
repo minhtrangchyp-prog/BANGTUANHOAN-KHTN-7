@@ -1,0 +1,7 @@
+.git
+.github
+.aistudio
+node_modules
+*.log
+.env.local
+.env.*.local
